@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/8571037c-aa94-463e-9c6e-2ea64d910c64.jpg</file>
+        <file>img/da8b0327-5cc8-4bf9-bb23-69971ddf7a0b.jpg</file>
+        <file>img/e7cc84af-ea66-425a-aa1b-4045f7bbf4cf.jpg</file>
+        <file>img/03f46d69-8376-468e-a25b-ffce35928afd.jpg</file>
+        <file>img/babefcbe-708b-4632-9792-2123e4ec3205.jpg</file>
+        <file>img/fc950ed5-d2ba-427b-acfc-9569b114bd51.jpg</file>
+        <file>img/9691abe0-7762-4c15-80e6-8f747f42acac.jpg</file>
+        <file>img/b00c8e3f-79bb-42d4-bdb2-41dc5ea59f11.jpg</file>
+        <file>img/833fb7bc-522d-4f07-836f-3718e4dafbd1.jpg</file>
+        <file>img/179fc386-4e95-4050-b5c9-32b33f230b07.jpg</file>
+        <file>img/dcc6c38e-db2c-4a61-9922-f1f5cb34ba04.jpg</file>
+        <file>img/cfc36b34-8a7e-4892-80a3-a5be6682a392.jpg</file>
+        <file>img/01d349af-ae60-408c-8376-30596cedcc29.jpg</file>
+    </qresource>
+</RCC>
